@@ -3,12 +3,9 @@ El lenguaje C# es el lenguaje más popular para la [[plataforma .NET]], un ento
 C# es parte de la familia de lenguaje C. La sintaxis de C# es reconocible si has usado C++,C, Java o JavaScript.
 Los identificadores de C# distinguen mayus/minus, C# tiene le mismo uso de llaves, instrucciones de control (if else, switch) y construcciones en bucle como for y while. C# también tiene una instrucción foreach para cualquier tipo de colección.
 C# es un lenguaje fuertemente tipado, cada variable que declares tiene un tipo conocido en tiempo de compilación.
-### Los tipos de Datos Fundamentales
-- Int
-- Double
-- Char
-- string
-- struct
+
+[[Tipos de Datos C]]
+
 ### Características de C S
 [[Language Integrated Query (LINQ)]] proporciona una sintaxis común en patrones para consultar o transformar cualquier colección de datos, unifica la sintaxis para consultar colecciones en memoria, datos estructurados como XML o JSON, almacenamiento de base de datos e incluso API de datos basadas en la nube
 

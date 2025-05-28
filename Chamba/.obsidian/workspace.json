@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd483036e54a884",
+        "id": "b2d0f728ece526ff",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5afb0c35690cd1",
+            "id": "643016099e10a5fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ColsaBackEnd/Sistema Colsa.md",
+                "file": "Tipos de Datos C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema Colsa"
-            }
-          },
-          {
-            "id": "58c2507c6689c160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health Checks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Health Checks"
-            }
-          },
-          {
-            "id": "7bca6bffe402cf6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seguridad/Json Web Token (JWT).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Json Web Token (JWT)"
-            }
-          },
-          {
-            "id": "0a93b7114705421c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ColsaFrontEnd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ColsaFrontEnd"
+              "title": "Tipos de Datos C"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java",
+                "query": "tag:#__Arreglos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,8 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c95390513313a563",
+  "active": "643016099e10a5fd",
   "lastOpenFiles": [
+    "Fundamentos de C#.pdf",
+    "Tipos de Datos C.md",
+    "C Sharp/C Sharp.md",
+    "ColsaFrontEnd.md",
     "Health Checks.md",
     "ColsaBackEnd.md",
     "Hosted Services.md",
@@ -213,7 +175,6 @@
     "ColsaBackEnd/Sistema Colsa.md",
     "Seguridad/Json Web Token (JWT).md",
     "Nlog.md",
-    "ColsaFrontEnd.md",
     "ColsaFrontEnd",
     "ColsaBackEnd",
     "Seguridad",
@@ -232,9 +193,6 @@
     "Regex.md",
     "C Sharp/program.md",
     "C Sharp/plataforma .NET.md",
-    "C Sharp/Modelo de Programación Asincrónica.md",
-    "C Sharp/Main.md",
-    "logging.Logger.md",
     "C Sharp",
     "Pasted image 20241023102438.png",
     "Pasted image 20241023102428.png",
