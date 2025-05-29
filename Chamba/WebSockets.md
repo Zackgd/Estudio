@@ -1,3 +1,0 @@
-Es una tecnología avanzada que hace posible abrir una sesión de comunicación interactiva entre el navegador del usuario y un servidor. Con esta API, puede enviar mensajes a un servidor y recibir respuestas controladas por eventos sin tener que consultar al servidor para una respuesta.
-
-El objeto ``WebSocket`` provee una API para la creación y administración de una conexión WebSockets a un servidor, así como también para enviar y recibir datos en la conexión. El constructor de WebSockets acepta un parámetro requerido y otro opcional

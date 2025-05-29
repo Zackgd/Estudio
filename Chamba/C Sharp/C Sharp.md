@@ -4,7 +4,12 @@ C# es parte de la familia de lenguaje C. La sintaxis de C# es reconocible si has
 Los identificadores de C# distinguen mayus/minus, C# tiene le mismo uso de llaves, instrucciones de control (if else, switch) y construcciones en bucle como for y while. C# también tiene una instrucción foreach para cualquier tipo de colección.
 C# es un lenguaje fuertemente tipado, cada variable que declares tiene un tipo conocido en tiempo de compilación.
 
-[[Tipos de Datos C]]
+### [[Tipos de Datos C]]
+### [[Operadores y Expresiones]]
+
+### [[Sentencias de Control de Flujo]]
+
+##### [[Modificadores de Acceso]]
 
 ### Características de C S
 [[Language Integrated Query (LINQ)]] proporciona una sintaxis común en patrones para consultar o transformar cualquier colección de datos, unifica la sintaxis para consultar colecciones en memoria, datos estructurados como XML o JSON, almacenamiento de base de datos e incluso API de datos basadas en la nube
@@ -15,3 +20,11 @@ C# es un lenguaje fuertemente tipado, cada variable que declares tiene un tipo c
 
 ## [[Estructura General de un Programa en C Sharp#]] 
 
+[[C Sharp]] es un lenguaje que apoya completamente los principios de [[Programación Orientada a Objetos (POO)]], lo que lo convierte en una herramienta poderosa para los desarrolladores.
+
+
+
+# Two Sides
+
+### [[Mejores Practicas.]]
+## [[Errores mas Comunes]]

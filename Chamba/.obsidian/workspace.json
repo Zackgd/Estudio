@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "643016099e10a5fd",
+            "id": "a592d6a8965a53b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Datos C.md",
+                "file": "C Sharp/C Sharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Datos C"
+              "title": "C Sharp"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#__Arreglos",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,43 +160,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "643016099e10a5fd",
+  "active": "a592d6a8965a53b9",
   "lastOpenFiles": [
-    "Fundamentos de C#.pdf",
-    "Tipos de Datos C.md",
+    "NotebookLM Mind Map.png",
+    "Mejores Practicas..md",
     "C Sharp/C Sharp.md",
-    "ColsaFrontEnd.md",
-    "Health Checks.md",
-    "ColsaBackEnd.md",
-    "Hosted Services.md",
-    "WebSockets.md",
-    "UseStaticFiles.md",
-    "ColsaBackEnd/Sistema Colsa.md",
-    "Seguridad/Json Web Token (JWT).md",
-    "Nlog.md",
+    "C Sharp/Cosas que se deben evitar en C/Lanzar Demasiadas Excepciones..md",
+    "C Sharp/Cosas que se deben evitar en C/Errores mas Comunes.md",
+    "Concatenar Cadenas de Texto.md",
+    "Instanciar httpClient.md",
+    "C Sharp/Cosas que se deben evitar en C/Acceso Constante a los mismos Datos.md",
+    "Ignorar el `CancellationToken`.md",
+    "C Sharp/Cosas que se deben evitar en C",
+    "Optimización de Consultas SQL en MySQL.wav",
+    "C Sharp/Unit Of Work (UoW).md",
+    "C Sharp/Tipos de Datos C.md",
+    "C Sharp/Sentencias de Control de Flujo.md",
+    "C Sharp/Programación Orientada a Objetos (POO).md",
+    "C Sharp/program.md",
+    "C Sharp/plataforma .NET.md",
+    "C Sharp/Operadores y Expresiones.md",
+    "C Sharp/Modificadores de Acceso.md",
+    "C Sharp/Modelo de Programación Asincrónica.md",
+    "C Sharp/Main.md",
+    "C Sharp/Language Integrated Query (LINQ).md",
+    "C Sharp/IEnumerable T.md",
+    "C Sharp/Health Checks.md",
+    "C Sharp/Fundamentos de C#.pdf",
+    "C Sharp/Estructura General de un Programa en C Sharp.md",
+    "C Sharp/Espacios de nombre.md",
+    "C Sharp/Coincidencia de Patrones..md",
+    "C Sharp/Class..md",
+    "Imagenes",
     "ColsaFrontEnd",
     "ColsaBackEnd",
     "Seguridad",
-    "React/JSX.md",
-    "React/JavaScript.md",
-    "función reductora.md",
-    "React/Hooks.md",
-    "React/APIs.md",
-    "React/React..md",
-    "React/componente.md",
-    "Untitled.md",
     "React",
-    "Unit Of Work (UoW).md",
-    "Manejo de Errores..md",
-    "XQuery.md",
-    "Regex.md",
-    "C Sharp/program.md",
-    "C Sharp/plataforma .NET.md",
     "C Sharp",
-    "Pasted image 20241023102438.png",
-    "Pasted image 20241023102428.png",
-    "Pasted image 20241022102323.png",
-    "Pasted image 20241022102345.png",
+    "Imagenes/Pasted image 20241023102438.png",
+    "Imagenes/Pasted image 20241023102428.png",
+    "Imagenes/Pasted image 20241022102323.png",
+    "Imagenes/Pasted image 20241022102345.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
